@@ -1,0 +1,76 @@
+Google → ORG
+Bangalore → LOCATION
+India → LOCATION
+10th January 2026 → DATE
+Infosys → ORG
+Pune → LOCATION
+India → LOCATION
+15th March 2026 → DATE
+HR Team → ORG
+Microsoft → ORG
+Software → ORG
+Hyderabad → LOCATION
+India → LOCATION
+1st February 2026 → DATE
+Recruitment Team → ORG
+Rahul Sharma → PERSON
+TCS → ORG
+Mumbai → LOCATION
+last year → DATE
+Sundar Pichai → PERSON
+Google → ORG
+the United States → LOCATION
+Tesla → NORP
+USA → LOCATION
+Dear Vipul → WORK_OF_ART
+Amazon → ORG
+Bangalore → LOCATION
+India → LOCATION
+20th → ORDINAL
+2026 → DATE
+Wipro in Chennai → ORG
+Meta → PERSON
+California → LOCATION
+Deloitte → ORG
+Gurgaon → LOCATION
+5th → ORDINAL
+May 2026 → DATE
+Rohit → ORG
+London → LOCATION
+HSBC → ORG
+Apple Inc. → ORG
+Cupertino → LOCATION
+California → LOCATION
+Dear Karan → PERSON
+Accenture in → ORG
+Noida → LOCATION
+India → LOCATION
+10th → ORDINAL
+HR Team → ORG
+IBM → ORG
+Delhi → LOCATION
+Narendra Modi → PERSON
+India → LOCATION
+Deepika Padukone → WORK_OF_ART
+Mumbai → LOCATION
+Bollywood → LOCATION
+Capgemini → LOCATION
+Pune → LOCATION
+12th July 2026 → DATE
+Infosys → ORG
+Bangalore → LOCATION
+Hyderabad → ORG
+Mukesh Ambani → PERSON
+Reliance Industries → ORG
+India → LOCATION
+TCS → ORG
+HCL Technologies → ORG
+Lucknow → LOCATION
+1st → ORDINAL
+August 2026 → DATE
+HR Department → ORG
+Tesla Technologies → ORG
+Newyork → PERSON
+1st → ORDINAL
+August 2027 → DATE
+HR Department → ORG

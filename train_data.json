@@ -1,0 +1,7547 @@
+[
+  [
+    "Neha Kapoor moved to Noida",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah joined Google",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          24,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte is located in California",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions appointed Amit Patel as manager",
+    {
+      "entities": [
+        [
+          28,
+          38,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor is working at Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore hired Vikram Malhotra in New York",
+    {
+      "entities": [
+        [
+          15,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          34,
+          42,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          36,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro appointed Sneha Joshi as manager",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah moved to Texas",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Texas",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor is working at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          31,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Amit Patel in Pune",
+    {
+      "entities": [
+        [
+          13,
+          23,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          27,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta works at TCS in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah moved to Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma relocated to Chennai and joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          44,
+          52,
+          "ORG"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS is located in Texas",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          23,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor visited California for work at TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          43,
+          51,
+          "ORG"
+        ],
+        [
+          20,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          28,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM is located in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          23,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Neha Kapoor in New York",
+    {
+      "entities": [
+        [
+          13,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          28,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta moved to Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta moved to Noida",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS hired Priya Singh in Delhi",
+    {
+      "entities": [
+        [
+          10,
+          21,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte appointed Arjun Reddy as manager",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai works at Capgemini in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys is located in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          22,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Manish Gupta as manager",
+    {
+      "entities": [
+        [
+          17,
+          29,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma relocated to Noida and joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          51,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in New York",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma moved to London",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta relocated to Noida and joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          43,
+          51,
+          "ORG"
+        ],
+        [
+          26,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs has an office in Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          30,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google is located in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi works at DataCore in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          29,
+          "ORG"
+        ],
+        [
+          33,
+          42,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta works at Deloitte in Texas",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma is working at Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          38,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta visited Texas for work at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          39,
+          47,
+          "ORG"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma is working at IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh moved to Texas",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel relocated to Noida and joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          41,
+          50,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore appointed Anjali Mehta as manager",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon hired Arjun Reddy in Hyderabad",
+    {
+      "entities": [
+        [
+          13,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM hired Priya Singh in Chennai",
+    {
+      "entities": [
+        [
+          10,
+          21,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra relocated to Noida and joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          46,
+          55,
+          "ORG"
+        ],
+        [
+          29,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta works at Amazon in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          28,
+          "ORG"
+        ],
+        [
+          32,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs appointed Priya Singh as manager",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "PERSON"
+        ],
+        [
+          0,
+          12,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys hired Amit Patel in Delhi",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          28,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova has an office in Noida",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta works at TCS in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Neha Kapoor in Pune",
+    {
+      "entities": [
+        [
+          13,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          28,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy moved to Chennai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys has an office in Pune",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          25,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon hired Manish Gupta in New York",
+    {
+      "entities": [
+        [
+          13,
+          25,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          29,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi moved to Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma relocated to Ahmedabad and joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          47,
+          56,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited Mumbai for work at Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          43,
+          55,
+          "ORG"
+        ],
+        [
+          24,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai works at Capgemini in Noida",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma relocated to Bangalore and joined NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          47,
+          64,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM is located in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM has an office in London",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions is located in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          32,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS appointed Sneha Joshi as manager",
+    {
+      "entities": [
+        [
+          14,
+          25,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova has an office in California",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Neha Kapoor as manager",
+    {
+      "entities": [
+        [
+          17,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon has an office in California",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          17,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Vikram Malhotra in Ahmedabad",
+    {
+      "entities": [
+        [
+          13,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          32,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft has an office in Pune",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM is located in New York",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Ahmedabad and joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          55,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft has an office in Pune",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel relocated to Delhi and joined Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          41,
+          53,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma moved to Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah relocated to Noida and joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          41,
+          50,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra relocated to Gurgaon and joined Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          48,
+          60,
+          "ORG"
+        ],
+        [
+          29,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys has an office in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs is located in London",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          27,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          35,
+          44,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova hired Priya Singh in California",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          30,
+          40,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh relocated to Chennai and joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          44,
+          52,
+          "ORG"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS appointed Manish Gupta as manager",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma is working at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          34,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai moved to London",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions hired Anjali Mehta in Chennai",
+    {
+      "entities": [
+        [
+          24,
+          36,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          40,
+          47,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions hired Manish Gupta in Ahmedabad",
+    {
+      "entities": [
+        [
+          24,
+          36,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          40,
+          49,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs has an office in Texas",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          30,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited Ahmedabad for work at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          46,
+          54,
+          "ORG"
+        ],
+        [
+          24,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma works at Infosys in Pune",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "ORG"
+        ],
+        [
+          32,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma relocated to Ahmedabad and joined Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          58,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta works at Deloitte in Texas",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft has an office in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh visited Bangalore for work at Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          48,
+          "ORG"
+        ],
+        [
+          20,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions hired Amit Patel in Gurgaon",
+    {
+      "entities": [
+        [
+          24,
+          34,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          38,
+          45,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          17,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh moved to Chennai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah works at Amazon in New York",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          26,
+          "ORG"
+        ],
+        [
+          30,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Sneha Joshi as manager",
+    {
+      "entities": [
+        [
+          17,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          24,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor relocated to Mumbai and joined Infosys",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          43,
+          50,
+          "ORG"
+        ],
+        [
+          25,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          25,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro appointed Pooja Desai as manager",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS hired Vikram Malhotra in Bangalore",
+    {
+      "entities": [
+        [
+          10,
+          25,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          29,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel visited Texas for work at Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          37,
+          46,
+          "ORG"
+        ],
+        [
+          19,
+          24,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy works at Amazon in Texas",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "ORG"
+        ],
+        [
+          31,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft appointed Manish Gupta as manager",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah visited Mumbai for work at Google",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          38,
+          44,
+          "ORG"
+        ],
+        [
+          19,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy moved to Delhi",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs has an office in California",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          30,
+          40,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs appointed Neha Kapoor as manager",
+    {
+      "entities": [
+        [
+          23,
+          34,
+          "PERSON"
+        ],
+        [
+          0,
+          12,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft appointed Manish Gupta as manager",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys is located in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          22,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy is working at Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          32,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai works at TCS in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          24,
+          "ORG"
+        ],
+        [
+          28,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS is located in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM hired Priya Singh in Chennai",
+    {
+      "entities": [
+        [
+          10,
+          21,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai relocated to California and joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          47,
+          52,
+          "ORG"
+        ],
+        [
+          25,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh is working at Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova is located in Pune",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro hired Anjali Mehta in Ahmedabad",
+    {
+      "entities": [
+        [
+          12,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi is working at DataCore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          34,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra is working at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          30,
+          39,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore hired Priya Singh in Chennai",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          30,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy works at Deloitte in New York",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          29,
+          "ORG"
+        ],
+        [
+          33,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys is located in Noida",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          22,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions is located in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          32,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys is located in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          22,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited Gurgaon for work at IBM",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          44,
+          47,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Ahmedabad and joined Infosys",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          53,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited Noida for work at DataCore",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          42,
+          50,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS has an office in New York",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro hired Manish Gupta in New York",
+    {
+      "entities": [
+        [
+          12,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          28,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Pune",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          24,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro has an office in London",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          23,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai is working at IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture appointed Amit Patel as manager",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma visited Texas for work at Infosys",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          39,
+          46,
+          "ORG"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra moved to New York",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta moved to Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          19,
+          34,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini is located in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi moved to Noida",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs is located in London",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          27,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma moved to Chennai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at Amazon",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          33,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon hired Manish Gupta in Texas",
+    {
+      "entities": [
+        [
+          13,
+          25,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          29,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra moved to California",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma moved to Noida",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte is located in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in California",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor joined Google",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          25,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel is working at Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          25,
+          37,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          28,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft is located in California",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture hired Pooja Desai in Chennai",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          31,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor moved to Chennai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta visited Gurgaon for work at DataCore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          41,
+          49,
+          "ORG"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore appointed Karan Shah as manager",
+    {
+      "entities": [
+        [
+          19,
+          29,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore hired Anjali Mehta in Noida",
+    {
+      "entities": [
+        [
+          15,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          31,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel relocated to Mumbai and joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          42,
+          50,
+          "ORG"
+        ],
+        [
+          24,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy moved to Delhi",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          23,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google appointed Rahul Sharma as manager",
+    {
+      "entities": [
+        [
+          17,
+          29,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma visited Texas for work at Google",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          44,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova appointed Amit Patel as manager",
+    {
+      "entities": [
+        [
+          19,
+          29,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS hired Pooja Desai in London",
+    {
+      "entities": [
+        [
+          10,
+          21,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          25,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy moved to Delhi",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra works at TechNova in Texas",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          33,
+          "ORG"
+        ],
+        [
+          37,
+          42,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro hired Anjali Mehta in Ahmedabad",
+    {
+      "entities": [
+        [
+          12,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          23,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta visited Pune for work at Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          38,
+          47,
+          "ORG"
+        ],
+        [
+          21,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined TCS",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor is working at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah is working at Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          25,
+          37,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          19,
+          34,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra is working at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          30,
+          38,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Delhi and joined TCS",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          45,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          22,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini has an office in Noida",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai moved to Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh is working at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Pooja Desai in Pune",
+    {
+      "entities": [
+        [
+          13,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          28,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          25,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah relocated to California and joined TCS",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          46,
+          49,
+          "ORG"
+        ],
+        [
+          24,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor is working at Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS has an office in London",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte has an office in New York",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra moved to Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra joined Google",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          23,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs is located in New York",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          27,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma works at TCS in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova is located in Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google appointed Neha Kapoor as manager",
+    {
+      "entities": [
+        [
+          17,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture hired Karan Shah in Noida",
+    {
+      "entities": [
+        [
+          16,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          30,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi works at Capgemini in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          43,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          23,
+          31,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor relocated to Hyderabad and joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          52,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon hired Arjun Reddy in Chennai",
+    {
+      "entities": [
+        [
+          13,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          28,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma moved to Noida",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS has an office in New York",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Texas and joined Infosys",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          49,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah relocated to Chennai and joined Google",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          43,
+          49,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma moved to Delhi",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel relocated to London and joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          42,
+          50,
+          "ORG"
+        ],
+        [
+          24,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google is located in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS hired Vikram Malhotra in California",
+    {
+      "entities": [
+        [
+          10,
+          25,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          29,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma works at Wipro in California",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          27,
+          "ORG"
+        ],
+        [
+          31,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture hired Arjun Reddy in Texas",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          31,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at Infosys",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          34,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova hired Arjun Reddy in Texas",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          30,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro hired Vikram Malhotra in California",
+    {
+      "entities": [
+        [
+          12,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          31,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          18,
+          33,
+          "PERSON"
+        ],
+        [
+          0,
+          7,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions hired Neha Kapoor in Pune",
+    {
+      "entities": [
+        [
+          24,
+          35,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          39,
+          43,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited California for work at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          47,
+          56,
+          "ORG"
+        ],
+        [
+          24,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft is located in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh visited Delhi for work at NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          55,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta works at TCS in Pune",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi works at Accenture in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          43,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Ahmedabad and joined Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          58,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh moved to London",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai visited Delhi for work at Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          47,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi is working at Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          32,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah moved to Delhi",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma works at Accenture in California",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "ORG"
+        ],
+        [
+          34,
+          44,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft appointed Rahul Sharma as manager",
+    {
+      "entities": [
+        [
+          20,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture appointed Priya Singh as manager",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi visited London for work at TCS",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          39,
+          42,
+          "ORG"
+        ],
+        [
+          20,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          27,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra moved to Chennai",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy visited Chennai for work at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          40,
+          45,
+          "ORG"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta relocated to Mumbai and joined Infosys",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          44,
+          51,
+          "ORG"
+        ],
+        [
+          26,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro is located in Texas",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at TechNova",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra is working at Infosys",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          30,
+          37,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi moved to California",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma relocated to Pune and joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          41,
+          49,
+          "ORG"
+        ],
+        [
+          25,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          22,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte has an office in Delhi",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra works at TechNova in Pune",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          25,
+          33,
+          "ORG"
+        ],
+        [
+          37,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy visited Bangalore for work at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          47,
+          "ORG"
+        ],
+        [
+          20,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor works at Zyntrix Labs in London",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          33,
+          "ORG"
+        ],
+        [
+          37,
+          43,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS appointed Karan Shah as manager",
+    {
+      "entities": [
+        [
+          14,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy works at Zyntrix Labs in Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          33,
+          "ORG"
+        ],
+        [
+          37,
+          43,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture appointed Amit Patel as manager",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta relocated to Pune and joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          42,
+          51,
+          "ORG"
+        ],
+        [
+          26,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte appointed Arjun Reddy as manager",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta relocated to Texas and joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          43,
+          46,
+          "ORG"
+        ],
+        [
+          26,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined Google",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Deloitte appointed Anjali Mehta as manager",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai is working at Zyntrix Labs",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          38,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys has an office in Pune",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          25,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma is working at Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          36,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          24,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy joined Infosys",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          25,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta visited Noida for work at Amazon",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          39,
+          45,
+          "ORG"
+        ],
+        [
+          21,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh visited Delhi for work at NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          55,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Priya Singh relocated to Ahmedabad and joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          54,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma is working at NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          44,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor works at NextGen Solutions in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          38,
+          "ORG"
+        ],
+        [
+          42,
+          49,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra visited Mumbai for work at Google",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          43,
+          49,
+          "ORG"
+        ],
+        [
+          24,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah is working at IBM",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          25,
+          28,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys hired Manish Gupta in Chennai",
+    {
+      "entities": [
+        [
+          14,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          30,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          23,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor relocated to Mumbai and joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          43,
+          48,
+          "ORG"
+        ],
+        [
+          25,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah visited Mumbai for work at TechNova",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          38,
+          46,
+          "ORG"
+        ],
+        [
+          19,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          23,
+          32,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon hired Karan Shah in Pune",
+    {
+      "entities": [
+        [
+          13,
+          23,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          27,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft is located in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs is located in London",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          27,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai relocated to Bangalore and joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          54,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma moved to Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google hired Vikram Malhotra in New York",
+    {
+      "entities": [
+        [
+          13,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          32,
+          40,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          23,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Arjun Reddy as manager",
+    {
+      "entities": [
+        [
+          17,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor works at Infosys in Pune",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          28,
+          "ORG"
+        ],
+        [
+          32,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta is working at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          35,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova hired Pooja Desai in Mumbai",
+    {
+      "entities": [
+        [
+          15,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          30,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          36,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi relocated to Texas and joined Google",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          48,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS has an office in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro hired Rahul Sharma in Hyderabad",
+    {
+      "entities": [
+        [
+          12,
+          24,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel is working at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          25,
+          30,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi joined NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          36,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon appointed Vikram Malhotra as manager",
+    {
+      "entities": [
+        [
+          17,
+          32,
+          "PERSON"
+        ],
+        [
+          0,
+          6,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Pune",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          24,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel joined TechNova",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          26,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta visited California for work at Infosys",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          44,
+          51,
+          "ORG"
+        ],
+        [
+          21,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture has an office in Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai moved to Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini has an office in Noida",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini hired Pooja Desai in California",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          31,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          30,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta moved to Mumbai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova has an office in Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions has an office in Pune",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          35,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor moved to Hyderabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore is located in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          32,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai visited Delhi for work at TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          46,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra relocated to Hyderabad and joined Amazon",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          50,
+          56,
+          "ORG"
+        ],
+        [
+          29,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta visited Pune for work at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          38,
+          46,
+          "ORG"
+        ],
+        [
+          21,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          24,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS is located in California",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs has an office in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          30,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah is working at NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          25,
+          42,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "DataCore is located in California",
+    {
+      "entities": [
+        [
+          0,
+          8,
+          "ORG"
+        ],
+        [
+          23,
+          33,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor visited Ahmedabad for work at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          47,
+          "ORG"
+        ],
+        [
+          20,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta relocated to Ahmedabad and joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          47,
+          52,
+          "ORG"
+        ],
+        [
+          26,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi visited Gurgaon for work at Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          40,
+          49,
+          "ORG"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rohit Verma works at Google in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "ORG"
+        ],
+        [
+          31,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor relocated to California and joined NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          47,
+          64,
+          "ORG"
+        ],
+        [
+          25,
+          35,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Infosys has an office in Texas",
+    {
+      "entities": [
+        [
+          0,
+          7,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions hired Anjali Mehta in London",
+    {
+      "entities": [
+        [
+          24,
+          36,
+          "PERSON"
+        ],
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          40,
+          46,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM hired Amit Patel in Chennai",
+    {
+      "entities": [
+        [
+          10,
+          20,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          24,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah works at Wipro in Noida",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini appointed Karan Shah as manager",
+    {
+      "entities": [
+        [
+          20,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai works at Amazon in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "ORG"
+        ],
+        [
+          31,
+          40,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai relocated to Hyderabad and joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          55,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta relocated to Delhi and joined DataCore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          43,
+          51,
+          "ORG"
+        ],
+        [
+          26,
+          31,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta is working at NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          27,
+          44,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amazon is located in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          21,
+          28,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Karan Shah joined IBM",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          18,
+          21,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta joined TCS",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          23,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor works at IBM in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          24,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai joined Microsoft",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          19,
+          28,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi moved to London",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy is working at Infosys",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          26,
+          33,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Amit Patel moved to Pune",
+    {
+      "entities": [
+        [
+          0,
+          10,
+          "PERSON"
+        ],
+        [
+          20,
+          24,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi visited Texas for work at TechNova",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          38,
+          46,
+          "ORG"
+        ],
+        [
+          20,
+          25,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Google has an office in Texas",
+    {
+      "entities": [
+        [
+          0,
+          6,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro appointed Karan Shah as manager",
+    {
+      "entities": [
+        [
+          16,
+          26,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Vikram Malhotra joined Capgemini",
+    {
+      "entities": [
+        [
+          0,
+          15,
+          "PERSON"
+        ],
+        [
+          23,
+          32,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor works at TCS in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          24,
+          "ORG"
+        ],
+        [
+          28,
+          37,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi visited Hyderabad for work at Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          50,
+          "ORG"
+        ],
+        [
+          20,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Sneha Joshi moved to New York",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          21,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TechNova appointed Manish Gupta as manager",
+    {
+      "entities": [
+        [
+          19,
+          31,
+          "PERSON"
+        ],
+        [
+          0,
+          8,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Capgemini hired Rahul Sharma in Pune",
+    {
+      "entities": [
+        [
+          16,
+          28,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          32,
+          36,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma works at TCS in California",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          25,
+          "ORG"
+        ],
+        [
+          29,
+          39,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture has an office in Gurgaon",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          27,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM is located in New York",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          18,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta works at Amazon in London",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          28,
+          "ORG"
+        ],
+        [
+          32,
+          38,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "IBM hired Priya Singh in Delhi",
+    {
+      "entities": [
+        [
+          10,
+          21,
+          "PERSON"
+        ],
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Accenture appointed Sneha Joshi as manager",
+    {
+      "entities": [
+        [
+          20,
+          31,
+          "PERSON"
+        ],
+        [
+          0,
+          9,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Anjali Mehta relocated to New York and joined NextGen Solutions",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          46,
+          63,
+          "ORG"
+        ],
+        [
+          26,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Manish Gupta joined Accenture",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          20,
+          29,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor relocated to Bangalore and joined Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          46,
+          51,
+          "ORG"
+        ],
+        [
+          25,
+          34,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Zyntrix Labs hired Neha Kapoor in California",
+    {
+      "entities": [
+        [
+          19,
+          30,
+          "PERSON"
+        ],
+        [
+          0,
+          12,
+          "ORG"
+        ],
+        [
+          34,
+          44,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma works at Google in Bangalore",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          28,
+          "ORG"
+        ],
+        [
+          32,
+          41,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Arjun Reddy relocated to Texas and joined Deloitte",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          42,
+          50,
+          "ORG"
+        ],
+        [
+          25,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Microsoft is located in Texas",
+    {
+      "entities": [
+        [
+          0,
+          9,
+          "ORG"
+        ],
+        [
+          24,
+          29,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Wipro appointed Pooja Desai as manager",
+    {
+      "entities": [
+        [
+          16,
+          27,
+          "PERSON"
+        ],
+        [
+          0,
+          5,
+          "ORG"
+        ]
+      ]
+    }
+  ],
+  [
+    "Pooja Desai visited Gurgaon for work at Google",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          40,
+          46,
+          "ORG"
+        ],
+        [
+          20,
+          27,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "TCS has an office in Ahmedabad",
+    {
+      "entities": [
+        [
+          0,
+          3,
+          "ORG"
+        ],
+        [
+          21,
+          30,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "NextGen Solutions has an office in California",
+    {
+      "entities": [
+        [
+          0,
+          17,
+          "ORG"
+        ],
+        [
+          35,
+          45,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Rahul Sharma works at Microsoft in Chennai",
+    {
+      "entities": [
+        [
+          0,
+          12,
+          "PERSON"
+        ],
+        [
+          22,
+          31,
+          "ORG"
+        ],
+        [
+          35,
+          42,
+          "GPE"
+        ]
+      ]
+    }
+  ],
+  [
+    "Neha Kapoor visited London for work at Wipro",
+    {
+      "entities": [
+        [
+          0,
+          11,
+          "PERSON"
+        ],
+        [
+          39,
+          44,
+          "ORG"
+        ],
+        [
+          20,
+          26,
+          "GPE"
+        ]
+      ]
+    }
+  ]
+]

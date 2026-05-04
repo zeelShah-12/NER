@@ -1,0 +1,115 @@
+NER RESULTS
+
+Subject -> ORG
+Job Offer -> PERSON
+Dear Rahul -> PERSON
+Congratulations -> GPE
+You -> ORG
+Google -> ORG
+Bangalore -> GPE
+India -> ORG
+January 2026 -> PERSON
+Regards, -> PERSON
+HR Team -> PERSON
+Subject -> ORG
+Interview Confirmation -> PERSON
+Dear Ankit -> PERSON
+You -> ORG
+Infosys -> ORG
+Pune -> GPE
+India -> ORG
+Regards, -> PERSON
+HR Team -> PERSON
+Dear Priya -> PERSON
+Congratulations -> GPE
+You -> ORG
+Microsoft -> ORG
+Software Engineer -> PERSON
+Hyderabad -> GPE
+India -> ORG
+Best, -> PERSON
+Recruitment -> GPE
+Rahul Sharma -> PERSON
+TCS -> ORG
+Mumbai -> GPE
+Sundar Pichai -> PERSON
+CEO -> ORG
+Google -> ORG
+United States -> PERSON
+Elon Musk -> PERSON
+SpaceX -> GPE
+Tesla -> ORG
+USA -> GPE
+Dear Vipul -> PERSON
+Amazon -> ORG
+Bangalore -> GPE
+India -> ORG
+Joining -> ORG
+Regards, -> PERSON
+Hiring Manager -> PERSON
+Amit -> ORG
+Wipro -> ORG
+Chennai -> GPE
+Facebook -> GPE
+Meta) -> PERSON
+California -> GPE
+Dear Neha -> PERSON
+Deloitte -> ORG
+Gurgaon -> ORG
+5th May -> PERSON
+Thanks -> ORG
+Rohit -> ORG
+London -> GPE
+HSBC. -> PERSON
+Apple -> ORG
+Cupertino -> GPE
+California -> GPE
+Dear Karan -> PERSON
+You -> ORG
+Accenture -> ORG
+Noida -> GPE
+India -> ORG
+Start Date -> PERSON
+June 2026 -> PERSON
+Best Regards -> PERSON
+HR Team -> PERSON
+IBM -> ORG
+Ramesh -> ORG
+Delhi -> GPE
+Narendra Modi -> PERSON
+Prime Minister -> PERSON
+India -> ORG
+Deepika Padukone -> PERSON
+Mumbai -> GPE
+Bollywood -> GPE
+Dear Sneha -> PERSON
+Capgemini -> GPE
+Pune -> GPE
+Joining -> ORG
+12th -> ORG
+July 2026 -> PERSON
+Regards, -> PERSON
+Infosys -> ORG
+Bangalore -> GPE
+Mysore -> GPE
+Hyderabad -> GPE
+Mukesh Ambani -> PERSON
+Reliance Industries -> PERSON
+India -> GPE
+Tata Consultancy -> PERSON
+Services ( -> PERSON
+TCS -> ORG
+Dear Arjun -> PERSON
+HCL -> GPE
+Technologies -> ORG
+Lucknow -> GPE
+August 2026 -> PERSON
+Regards, -> PERSON
+HR Department -> PERSON
+Dear Zeel -> PERSON
+Tesla -> GPE
+Technologies -> ORG
+Newyork -> GPE
+August -> ORG
+Regards, -> PERSON
+Department -> GPE
